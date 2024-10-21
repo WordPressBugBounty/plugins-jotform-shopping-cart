@@ -4,8 +4,8 @@ Donate link:       N/A
 Tags:              block, e-commerce, online store, sell, product catalog, shopping cart, storefront
 Requires at least: 5.8
 Requires PHP:      7.0
-Tested up to:      6.3
-Stable tag:        2.0.1
+Tested up to:      6.6
+Stable tag:        2.1.1
 License:           GNU General Public License v3
 License URI:       https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -68,6 +68,9 @@ Other plugins of Jotform allow you to embed your forms to websites. However, wit
 6. See your store in action!
 
 == Changelog ==
+
+= 2.1.1 =
+* update dependency versions
 
 = 2.0.1 =
 * update provider urls
